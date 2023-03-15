@@ -1,5 +1,5 @@
 # Power-BI
-Built BI report displaying sales Analysis
+Built BI report displaying sales Analysis-------
 Visuals used are- Cards,Donut,Slicers,Matrix & Bar Charts.
 Bookmarks feature to navigate to multiple pages & added button to clear filters; 
 created date table for time intelligence DAX functions & show the time series data.
