@@ -1,7 +1,13 @@
-# Power-BI
-Built BI report displaying sales Analysis-------
-Visuals used are- Cards,Donut,Slicers,Matrix & Bar Charts.
-Bookmarks feature to navigate to multiple pages & added button to clear filters; 
-created date table for time intelligence DAX functions & show the time series data.
-Added Drill through to the report to get producer details.(A bar graph with sales by producer has to be created in one page; a table with account information in one page; user should be abe to drill through from graph to view account details page).
- 
+Hi All 👋
+
+I am Shrishail Naik, a trained Power BI Developer. With a background in BI Visualization,Finance & Accounts, I transitioned to data Visualization in 2018 and have been have been upskilled myself in Power BI,SQL & Advance Excel ever since.
+
+📚 Projects & Guides 📚 In my portfolio, you can find my projects on data analytics, including Power BI, SQL and Excel.
+
+💡 My Skills are in Data Extraction, Transform & Load (ETL), Data Modelling, DAX Queries, RLS & Power BI Service
+
+🛠️ My Tools Databases: 
+**Power BI**: Extract Transform & Load (ETL), Data Modelling, DAX Queries, RLS & Power BI
+Service
+**SQL**: DDL, DML & DQL Commands, Stored Procedures, Views, Joins & Window Functions
+**Advanced Excel**: Pivots, Charts, Look-Ups, Power Query, and Power Pivot.
